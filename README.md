@@ -25,10 +25,12 @@ Grama Kalyana Sports aims to solve these problems by providing a centralized dig
 - Scorer Login - Update live match scores
 - Fan View - View Live Matches, scorers and players details (stats)
 
-## Tournament Management
+## Tournament & Team Management
 - Create and manage sports tournaments
+- Add and manage teams
+- Add and manage players
 - Organize match schedules and fixtures
-- Track tournament progress
+- Track tournament progress and match results
 
 ## Live Scoreboard
 - Real-time score updates
