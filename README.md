@@ -74,7 +74,7 @@ Grama Kalyana Sports aims to solve these problems by providing a centralized dig
 - Firebase Realtime Database
 
 ## APIs & Integrations
-- Gemini APi
+- Gemini API
 
 ## Authentication
 - Firebase Authentication
@@ -85,6 +85,7 @@ Grama Kalyana Sports aims to solve these problems by providing a centralized dig
 ## Sharing/Export 
 - Android Canvas API
 - Bitmap API
+- Whatsapp Intent Sharing
 
 ## Additional Tools
 - Gradle
