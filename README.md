@@ -154,3 +154,36 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 3. Click **Run App**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Screenshots
+## Splash Screen
+
+
+
+
+
+
+
+
+
+## Role-based access Screen 
+
+
+
+
+
+
+
+
+
+
+## Language Selection screen 
+
+
+
+
+## Tournament Setup screen
+
+
+
+
