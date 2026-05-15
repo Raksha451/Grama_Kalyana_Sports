@@ -200,6 +200,62 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Folder Structure
+
+```plaintext
+Grama_Kalyana_Sports/
+│
+├── .idea/
+│
+├── app/
+│   ├── src/main/
+│   │   ├── java/com/gramakalyana/sports/
+│   │   │   ├── data/
+│   │   │   │   ├── local/
+│   │   │   │   └── model/
+│   │   │   │
+│   │   │   ├── ui/
+│   │   │   │   ├── navigation/
+│   │   │   │   ├── screens/
+│   │   │   │   ├── theme/
+│   │   │   │   ├── utils/
+│   │   │   │   └── viewmodel/
+│   │   │   │
+│   │   │   ├── GramaKalyanaApplication.kt
+│   │   │   └── MainActivity.kt
+│   │   │
+│   │   ├── res/
+│   │   │   ├── drawable/
+│   │   │   ├── mipmap-anydpi-v26/
+│   │   │   ├── values/
+│   │   │   └── xml/
+│   │   │
+│   │   └── AndroidManifest.xml
+│   │
+│   ├── build.gradle.kts
+│   └── google-services.json
+│
+├── gradle/
+├── .gitignore
+├── README.md
+├── build.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── local.properties
+└── settings.gradle.kts
+```
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Project Highlights
+- Modern Android application using Kotlin and Jetpack Compose
+- Focused on real-world sports tournament management
+- Responsive and accessible user interface
+- Organized project architecture
+- Real-time scoreboard and player management system
+- AI-assisted smart functionality integration
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Future Enhancements
 - Cloud database integration
 - Real-time online multiplayer tournament tracking
@@ -213,5 +269,15 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 - Live streaming integration for tournaments
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Author
+Raksha Shetty
 
+Android App Developer | UI/UX Enthusiast | AI Integration Learner
+
+GitHub: https://github.com/Raksha451
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# License
+
+This project is developed for educational and learning purposes.
 
