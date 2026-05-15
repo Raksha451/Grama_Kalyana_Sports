@@ -1,7 +1,7 @@
 # Grama Kalyana Sports
 
 ## Project Overview
-Grama Kalyana Sports is an Android-based sports tournament management application designed to simplify the organization and management of village-level sports events and competitions. The application provides an efficient digital platform for managing tournaments, player information, live scores, match schedules, scoreboards, and event coordination. The project focuses on improving accessibility, usability, and overall sports event management for local communities using modern Android development technologies and AI-assisted functionalities.
+Grama Kalyana Sports is an Android-based sports tournament management application designed to simplify the organization and management of village-level sports events and competitions. The application provides an efficient digital platform for managing tournaments, player information, live scores, match schedules, scoreboards, and event coordination. The project focuses on improving accessibility, usability, and overall sports event management for local communities using modern Android development technologies and AI-assisted functionalities. Currently it is implemented for most played games in the vilage, which includes Cricket, kabaddi and Volleyball.
 
 The application was developed with the goal of creating a responsive, user-friendly, and feature-rich solution that supports smooth navigation, real-time updates, and enhanced user interaction across different devices and environments.
 
