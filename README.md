@@ -115,13 +115,13 @@ Before running the project, ensure you have:
 - Git installed
 - Internet connection for dependency downloads
 
-# Follow the below steps once you go with prerequisites
+## Follow the below steps once you go with prerequisites
 - Clone repository
 - Open in Android Studio
 - Gradle sync
 - Build project
 
-# Run Instructions
+## Run Instructions
 - Run on emulator
 - Run on physical device
 
