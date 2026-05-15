@@ -157,32 +157,36 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 
 # Screenshots
 ## Splash Screen
-
-
-
-
-
-
-
-
+<img width="224" height="440" alt="image" src="https://github.com/user-attachments/assets/157d575a-1a2f-4259-bbee-4000c92439a1" />
 
 ## Role-based access Screen 
-
-
-
-
-
-
-
-
-
+<img width="241" height="460" alt="image" src="https://github.com/user-attachments/assets/b6df075d-e197-4a58-9fd7-b817f83d23f0" />
 
 ## Language Selection screen 
+<img width="228" height="444" alt="image" src="https://github.com/user-attachments/assets/a322f441-4a8f-47bf-921a-7cb8f65bbbad" />
 
-
-
+## Admin Login Screen
+<img width="262" height="510" alt="image" src="https://github.com/user-attachments/assets/c7871cbb-dbc0-4c43-bc4e-307db10ba1f7" />
 
 ## Tournament Setup screen
+<img width="252" height="513" alt="image" src="https://github.com/user-attachments/assets/35a50124-add2-42eb-9374-d71352be35bd" />
+
+## Scorer Login Screen
+<img width="262" height="524" alt="image" src="https://github.com/user-attachments/assets/4f52d269-90ff-4abc-905a-16b88e4f03c2" />
+
+## Scoring Screen
+<img width="257" height="521" alt="image" src="https://github.com/user-attachments/assets/bcf14f6a-5b5b-4ec3-918c-7216b75d5ea0" />
+
+## Fan View-Live Scoreboard Screen
+<img width="250" height="498" alt="image" src="https://github.com/user-attachments/assets/ccb44694-7742-4279-a95c-170378fd3b19" />
+
+## AI Chatbot Screen
+<img width="249" height="498" alt="image" src="https://github.com/user-attachments/assets/666e4c27-55d9-490a-be65-6478c10e3e75" />
+
+## Player Profile Screen
+<img width="249" height="498" alt="image" src="https://github.com/user-attachments/assets/16fd23d2-a479-4b57-a0a8-f46d302cfef3" />
+
+
 
 
 
