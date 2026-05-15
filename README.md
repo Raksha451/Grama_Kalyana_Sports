@@ -81,7 +81,7 @@ Grama Kalyana Sports aims to solve these problems by providing a centralized dig
 - ViewModel
 - State Management
 
-## Database & Storage
+## Database & Storage (Backend)
 - Room Database (SQLite)
 - Firebase Realtime Database
 
