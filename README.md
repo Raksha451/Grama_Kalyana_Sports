@@ -115,9 +115,22 @@ Before running the project, ensure you have:
 - Git installed
 - Internet connection for dependency downloads
 
+# Follow the below steps once you go with prerequisites
+- Clone repository
+- Open in Android Studio
+- Gradle sync
+- Build project
+
+# Run Instructions
+- Run on emulator
+- Run on physical device
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Clone the Repository
 
 ```bash
 git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
