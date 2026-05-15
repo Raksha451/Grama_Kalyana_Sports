@@ -156,46 +156,46 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Screenshots
-## 1.Splash Screen
+## 1. Splash Screen
 <img width="224" height="440" alt="image" src="https://github.com/user-attachments/assets/157d575a-1a2f-4259-bbee-4000c92439a1" />
 
-## 2.Role-based access Screen 
+## 2. Role-based access Screen 
 <img width="250" height="460" alt="image" src="https://github.com/user-attachments/assets/b6df075d-e197-4a58-9fd7-b817f83d23f0" />
 
-## 3.Language Selection screen 
+## 3. Language Selection screen 
 <img width="228" height="444" alt="image" src="https://github.com/user-attachments/assets/a322f441-4a8f-47bf-921a-7cb8f65bbbad" />
 
-## 4.Admin Login Screen
+## 4. Admin Login Screen
 <img width="262" height="510" alt="image" src="https://github.com/user-attachments/assets/c7871cbb-dbc0-4c43-bc4e-307db10ba1f7" />
 
-## 5.Tournament Setup screen
+## 5. Tournament Setup screen
 <img width="252" height="513" alt="image" src="https://github.com/user-attachments/assets/35a50124-add2-42eb-9374-d71352be35bd" />
 
-## 6.Create Tournament Screen
+## 6. Create Tournament Screen
 <img width="253" height="516" alt="image" src="https://github.com/user-attachments/assets/3e3d599e-70f0-4cb9-9c71-96bb4e05a5bb" />
 
-## 7.Add teams Screen
+## 7. Add teams Screen
 <img width="252" height="517" alt="image" src="https://github.com/user-attachments/assets/b9847219-2ff7-41ee-9401-4b9ddbef8e68" />
 
-## 8.Add New Player Screen
+## 8. Add New Player Screen
 <img width="254" height="510" alt="image" src="https://github.com/user-attachments/assets/a8105e30-b82c-4ba7-87b9-ef058a610d3e" />
 
-## 9.Scorer Login Screen
+## 9. Scorer Login Screen
 <img width="262" height="524" alt="image" src="https://github.com/user-attachments/assets/4f52d269-90ff-4abc-905a-16b88e4f03c2" />
 
-## 10.Scoring Screen
+## 10. Scoring Screen
 <img width="257" height="521" alt="image" src="https://github.com/user-attachments/assets/bcf14f6a-5b5b-4ec3-918c-7216b75d5ea0" />
 
-## 11.Fan View-Live Scoreboard Screen
+## 11. Fan View-Live Scoreboard Screen
 <img width="250" height="498" alt="image" src="https://github.com/user-attachments/assets/ccb44694-7742-4279-a95c-170378fd3b19" />
 
-## 12.AI Chatbot Screen
+## 12. AI Chatbot Screen
 <img width="249" height="498" alt="image" src="https://github.com/user-attachments/assets/666e4c27-55d9-490a-be65-6478c10e3e75" />
 
-## 13.Player Profile Screen
+## 13. Player Profile Screen
 <img width="264" height="534" alt="image" src="https://github.com/user-attachments/assets/ba3053d1-183a-4260-8d61-4270822a1cd3" />
 
-## 14.Scorecard Share Screen 
+## 14. Scorecard Share Screen 
 <img width="269" height="536" alt="image" src="https://github.com/user-attachments/assets/d1022d52-0dbe-4100-b326-f4829300f18d" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
