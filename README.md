@@ -160,7 +160,7 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 <img width="224" height="440" alt="image" src="https://github.com/user-attachments/assets/157d575a-1a2f-4259-bbee-4000c92439a1" />
 
 ## Role-based access Screen 
-<img width="241" height="460" alt="image" src="https://github.com/user-attachments/assets/b6df075d-e197-4a58-9fd7-b817f83d23f0" />
+<img width="250" height="460" alt="image" src="https://github.com/user-attachments/assets/b6df075d-e197-4a58-9fd7-b817f83d23f0" />
 
 ## Language Selection screen 
 <img width="228" height="444" alt="image" src="https://github.com/user-attachments/assets/a322f441-4a8f-47bf-921a-7cb8f65bbbad" />
@@ -193,7 +193,7 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 <img width="249" height="498" alt="image" src="https://github.com/user-attachments/assets/666e4c27-55d9-490a-be65-6478c10e3e75" />
 
 ## Player Profile Screen
-<img width="249" height="498" alt="image" src="https://github.com/user-attachments/assets/16fd23d2-a479-4b57-a0a8-f46d302cfef3" />
+<img width="264" height="534" alt="image" src="https://github.com/user-attachments/assets/ba3053d1-183a-4260-8d61-4270822a1cd3" />
 
 ## Scorecard Share Screen 
 <img width="269" height="536" alt="image" src="https://github.com/user-attachments/assets/d1022d52-0dbe-4100-b326-f4829300f18d" />
