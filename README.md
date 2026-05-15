@@ -271,8 +271,7 @@ Grama_Kalyana_Sports/
 
 # Author
 Raksha Shetty
-
-Android App Developer | UI/UX Enthusiast | AI Integration Learner
+Android App Developer
 
 GitHub: https://github.com/Raksha451
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
