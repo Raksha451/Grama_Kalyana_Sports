@@ -85,7 +85,7 @@ Grama Kalyana Sports aims to solve these problems by providing a centralized dig
 - Room Database (SQLite)
 - Firebase Realtime Database
 
-## APIs & Integrations
+## AI Integrations
 - Gemini API
 
 ## Authentication
