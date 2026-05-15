@@ -59,6 +59,11 @@ Grama Kalyana Sports aims to solve these problems by providing a centralized dig
 - Generate and export match scorecards
 - Share tournament results efficiently
 
+## Regional Language Support
+- Supports multiple regional languages for improved accessibility and inclusiveness
+- Available languages: English, Kannada, Hindi, Tulu, Tamil, Telugu, Malayalam, and Marathi
+- Designed to provide a user-friendly experience for rural and village-level communities
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Tech Stack
