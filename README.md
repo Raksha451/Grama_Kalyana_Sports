@@ -171,6 +171,15 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 ## Tournament Setup screen
 <img width="252" height="513" alt="image" src="https://github.com/user-attachments/assets/35a50124-add2-42eb-9374-d71352be35bd" />
 
+## Create Tournament Screen
+<img width="720" height="1463" alt="image" src="https://github.com/user-attachments/assets/3e3d599e-70f0-4cb9-9c71-96bb4e05a5bb" />
+
+## Add teams Screen
+<img width="716" height="1440" alt="image" src="https://github.com/user-attachments/assets/b9847219-2ff7-41ee-9401-4b9ddbef8e68" />
+
+## Add New Player Screen
+<img width="720" height="1476" alt="image" src="https://github.com/user-attachments/assets/a8105e30-b82c-4ba7-87b9-ef058a610d3e" />
+
 ## Scorer Login Screen
 <img width="262" height="524" alt="image" src="https://github.com/user-attachments/assets/4f52d269-90ff-4abc-905a-16b88e4f03c2" />
 
@@ -186,6 +195,10 @@ git clone https://github.com/Raksha451/Grama_Kalyana_Sports.git
 ## Player Profile Screen
 <img width="249" height="498" alt="image" src="https://github.com/user-attachments/assets/16fd23d2-a479-4b57-a0a8-f46d302cfef3" />
 
+## Scorecard Share Screen 
+<img width="269" height="536" alt="image" src="https://github.com/user-attachments/assets/d1022d52-0dbe-4100-b326-f4829300f18d" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
