@@ -20,6 +20,11 @@ Grama Kalyana Sports aims to solve these problems by providing a centralized dig
 
 # Features
 
+## Role-based Access 
+- Admin login - Create and Manage tournaments
+- Scorer Login - Update live match scores
+- Fan View - View Live Matches, scorers and players details (stats)
+
 ## Tournament Management
 - Create and manage sports tournaments
 - Organize match schedules and fixtures
